@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taghreedelqasas
-- 👀 I’m interested in computer sciences
-- 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on front end
+-  l'm an electrical engineer 👩‍💻
+-  I’m currently learning front end 
+-  Front_End developer 
 - 📫 How to reach me taghrid999tota@gmail.com
 
 <!---
